@@ -2,4 +2,4 @@
 
 A todo list web app built for refreshing Jquery concepts, part of Colt steele's bootcamp.
 
-Full link available here : https://nikhilmufc7.github.io/AnotherTodolistapp/
+Live version available using github pages : https://nikhilmufc7.github.io/AnotherTodolistapp/
